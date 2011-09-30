@@ -1,4 +1,4 @@
-//Cards Memory Game by Tomer Robinson (21755699) and Saggi Brener (17257643).
+//Cards Memory Game by Tomer Robinson (tomerr@tomerr.com).
 
 package com.tomerr.cards;
 //Controller
