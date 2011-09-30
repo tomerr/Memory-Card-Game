@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: Cards.jar 
+Main-Class: com.tomerr.cards.Facade
+
+
