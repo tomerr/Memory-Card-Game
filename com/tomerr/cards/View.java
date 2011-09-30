@@ -197,8 +197,7 @@ public class View extends JFrame implements Observer {
 					dialog,
 					"  "
 					+ version
-					+ "\n              Developed by:\n\nTomer Robinson  -  21755699\nSaggi Brener        -  17257643\n\n",
-					"About", JOptionPane.INFORMATION_MESSAGE);
+					+ "\n              Developed by:\n           Tomer Robinson\n      (tomerr@tomerr.com)\n", "About", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
 	class undoListener implements ActionListener {
