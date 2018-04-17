@@ -38,6 +38,7 @@ public class Deck extends Flippable {
 			}
 		}
 	}
+	// Shuffle
 	public void shuffle() {
 		Collections.shuffle(deckOfCards);
 	}
